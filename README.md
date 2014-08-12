@@ -15,6 +15,8 @@ get the value of the vector
 set the value of the mean
 get the value of the mean
 
+
+
 makeVector <- function(x = numeric()) {
         m <- NULL
         set <- function(y) {
